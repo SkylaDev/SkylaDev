@@ -15,7 +15,7 @@ Here you can find some of my programming projects that I have made/work on.
 
 |  |  |
 | --- | --- |
-| [YuriPyBot](https://yuripybot.xyz/ "Yuri PyBot homepage") | A simple and free to use Discord bot that includes some fun mini-games, image generation and a range of other random features. |
+| [YuriPyBot](https://yuri.skyla.dev/ "Yuri PyBot homepage") | A simple and free to use Discord bot that includes some fun mini-games, image generation and a range of other random features. |
 | [3D craft](https://skyla.dev/projects/3dcraft "Project page for 3D Craft") | A Minecraft resource pack that makes the game more 3D with more realistic models that still follow the Minecraft style. |
 | [Mumbo Clock](https://skyla.dev/projects/mumboclock "Project page for Mumbo Clock") | A Mumbo Jumbo themed desktop clock widget based off of [ElyBeatMaker's Outro Time](https://www.youtube.com/watch?v=L7PPa8ZL5D4 "Mumbo Jumbo - Outro Time (elybeatmaker Remix)"). |
 | [PyBanana](https://skyla.dev/projects/pybanana "Project page for PyBanana") | A joke Operating system made in Python with PyGame. |
