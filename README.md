@@ -5,7 +5,7 @@
 
 ### About me
 
-Hai, I'm Skyla, a 20 year old trans girl who likes to play games and program random and rather... questionable things... :p
+Hai, I'm Skyla, a 21 year old trans girl who likes to play games and program random and rather... questionable things... :p
 
 Here you can find some of my programming projects that I have made/work on.
 
